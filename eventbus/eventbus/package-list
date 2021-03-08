@@ -1,0 +1,14 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:////PointingToDeclaration/[root]/index.html
+$dokka.location:/Subscriber///PointingToDeclaration/[root]/-subscriber/index.html
+$dokka.location:/Subscriber/Subscriber/#kotlin.Any#com.ruixiude.eventbus.bean.SubscriberMethod/PointingToDeclaration/[root]/-subscriber/-subscriber.html
+$dokka.location:/Subscriber/component1/#/PointingToDeclaration/[root]/-subscriber/component1.html
+$dokka.location:/Subscriber/component2/#/PointingToDeclaration/[root]/-subscriber/component2.html
+$dokka.location:/Subscriber/copy/#kotlin.Any#com.ruixiude.eventbus.bean.SubscriberMethod/PointingToDeclaration/[root]/-subscriber/copy.html
+$dokka.location:/Subscriber/subscriber/#/PointingToDeclaration/[root]/-subscriber/subscriber.html
+$dokka.location:/Subscriber/subscriberMethod/#/PointingToDeclaration/[root]/-subscriber/subscriber-method.html
+com.ruixiude.eventbus
+com.ruixiude.eventbus.bean
+com.ruixiude.eventbus.utils
+

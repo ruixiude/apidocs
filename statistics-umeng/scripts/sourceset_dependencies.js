@@ -1,0 +1,1 @@
+sourceset_dependencies = '{":statistics:statistics-umeng:dokkaHtml/androidTestRelease": [], ":statistics:statistics-umeng:dokkaHtml/debug": [], ":statistics:statistics-umeng:dokkaHtml/main": [], ":statistics:statistics-umeng:dokkaHtml/release": []}'

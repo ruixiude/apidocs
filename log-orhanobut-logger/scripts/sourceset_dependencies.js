@@ -1,0 +1,1 @@
+sourceset_dependencies = '{":log:log-orhanobut-logger:dokkaHtml/androidTestRelease": [], ":log:log-orhanobut-logger:dokkaHtml/debug": [], ":log:log-orhanobut-logger:dokkaHtml/main": [], ":log:log-orhanobut-logger:dokkaHtml/release": []}'

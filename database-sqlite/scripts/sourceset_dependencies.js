@@ -1,0 +1,1 @@
+sourceset_dependencies = '{":database:database-sqlite:dokkaHtml/androidTestRelease": [], ":database:database-sqlite:dokkaHtml/debug": [], ":database:database-sqlite:dokkaHtml/main": [], ":database:database-sqlite:dokkaHtml/release": []}'

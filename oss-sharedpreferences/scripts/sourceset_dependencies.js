@@ -1,0 +1,1 @@
+sourceset_dependencies = '{":oss:oss-sharedpreferences:dokkaHtml/androidTestRelease": [], ":oss:oss-sharedpreferences:dokkaHtml/debug": [], ":oss:oss-sharedpreferences:dokkaHtml/main": [], ":oss:oss-sharedpreferences:dokkaHtml/release": []}'

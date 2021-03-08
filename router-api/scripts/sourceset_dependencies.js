@@ -1,0 +1,1 @@
+sourceset_dependencies = '{":router:router-api:dokkaHtml/androidTestRelease": [], ":router:router-api:dokkaHtml/debug": [], ":router:router-api:dokkaHtml/main": [], ":router:router-api:dokkaHtml/release": []}'

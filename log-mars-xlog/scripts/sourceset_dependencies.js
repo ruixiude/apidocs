@@ -1,0 +1,1 @@
+sourceset_dependencies = '{":log:log-mars-xlog:dokkaHtml/androidTestRelease": [], ":log:log-mars-xlog:dokkaHtml/debug": [], ":log:log-mars-xlog:dokkaHtml/main": [], ":log:log-mars-xlog:dokkaHtml/release": []}'

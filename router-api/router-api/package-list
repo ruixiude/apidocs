@@ -1,0 +1,6 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+
+com.ruixiude.router.api
+com.ruixiude.router.api.destination
+

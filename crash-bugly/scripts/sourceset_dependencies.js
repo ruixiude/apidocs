@@ -1,0 +1,1 @@
+sourceset_dependencies = '{":crash:crash-bugly:dokkaHtml/androidTestRelease": [], ":crash:crash-bugly:dokkaHtml/debug": [], ":crash:crash-bugly:dokkaHtml/main": [], ":crash:crash-bugly:dokkaHtml/release": []}'

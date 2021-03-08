@@ -1,0 +1,1 @@
+sourceset_dependencies = '{":octopus:octopus-koin:dokkaHtml/androidTestRelease": [], ":octopus:octopus-koin:dokkaHtml/debug": [], ":octopus:octopus-koin:dokkaHtml/main": [], ":octopus:octopus-koin:dokkaHtml/release": []}'
